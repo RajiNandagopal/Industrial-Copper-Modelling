@@ -1,7 +1,9 @@
 Introduction:
+
 The Industrial Copper Modeling project focuses on predicting the selling price and status (won or lost) in the industrial copper market using machine learning regression and classification algorithms. By exploring the dataset, performing data cleaning and preprocessing, and applying various machine learning techniques, we aim to develop models that can accurately predict the selling price and status in the copper market.
 
 About the Data:
+
 id: This column likely serves as a unique identifier for each transaction or item, which can be useful for tracking and record-keeping.
 
 item_date: This column represents the date when each transaction or item was recorded or occurred. It's important for tracking the timing of business activities.
